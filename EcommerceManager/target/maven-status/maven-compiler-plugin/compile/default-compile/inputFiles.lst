@@ -1,0 +1,17 @@
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/repository/exception/SelectQueryException.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/repository/Repository.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/model/Product.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/repository/exception/SQLRepositoryException.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/repository/SQLConnection.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/repository/SelectUpdateQuery.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/repository/SQLQuery.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/service/EcommerceManager.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/repository/exception/EcommerceManagerException.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/repository/SelectUpdateOrder.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/model/User.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/repository/SQLRepository.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/repository/SelectUpdateProduct.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/model/Order.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/service/EcommerceSQLManager.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/repository/exception/RepositoryException.java
+/Users/gina/Documents/dev/projects/EcommerceManager/src/main/java/se/ginaDev/ecommerce/repository/SelectUpdateUser.java

@@ -1,0 +1,17 @@
+se/ginaDev/ecommerce/service/EcommerceManager.class
+se/ginaDev/ecommerce/model/Order.class
+se/ginaDev/ecommerce/repository/SQLConnection.class
+se/ginaDev/ecommerce/repository/SelectUpdateProduct.class
+se/ginaDev/ecommerce/repository/SQLRepository.class
+se/ginaDev/ecommerce/repository/exception/RepositoryException.class
+se/ginaDev/ecommerce/repository/SelectUpdateQuery.class
+se/ginaDev/ecommerce/service/EcommerceSQLManager.class
+se/ginaDev/ecommerce/repository/Repository.class
+se/ginaDev/ecommerce/repository/SelectUpdateOrder.class
+se/ginaDev/ecommerce/repository/SQLQuery.class
+se/ginaDev/ecommerce/repository/exception/SQLRepositoryException.class
+se/ginaDev/ecommerce/repository/SelectUpdateUser.class
+se/ginaDev/ecommerce/model/Product.class
+se/ginaDev/ecommerce/repository/exception/EcommerceManagerException.class
+se/ginaDev/ecommerce/repository/exception/SelectQueryException.class
+se/ginaDev/ecommerce/model/User.class
